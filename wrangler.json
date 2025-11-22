@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-10-08",
+  "main": "src/index.ts",
+  "name": "phone-up-backend",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "9db641e3-19fe-49dd-b2b4-5f40acc500a7",
+      "database_name": "phone_up_backend"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
